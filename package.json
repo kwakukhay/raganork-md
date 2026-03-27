@@ -1,5 +1,5 @@
 {
-  "name": "raganork-md",
+  "name": "KELVINS BOT",
   "version": "6.2.26",
   "description": "A multi functional wa bot.",
   "main": "index.js",
@@ -10,8 +10,8 @@
   "keywords": [
     "whatsapp",
     "bot",
-    "baileys",
-    "raganork"
+    "ADU",
+    "ANSERE"
   ],
   "author": "Sourav K",
   "license": "GPL-3.0-or-later",
